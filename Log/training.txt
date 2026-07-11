@@ -1,0 +1,11 @@
+2026-07-11 15:56:55,586 | INFO | Dataset has been read by df (1000000, 28)
+2026-07-11 15:56:55,656 | INFO | train and test data splited (16000, 25) and (4000, 25)
+2026-07-11 15:56:57,619 | INFO | Model training completed
+2026-07-11 15:56:57,723 | INFO | training rmse: 2212.5340698293994
+2026-07-11 15:56:57,723 | INFO | test rmse: 2806.594979274334
+2026-07-11 15:56:57,724 | INFO | training mae: 1732.6369343714632
+2026-07-11 15:56:57,724 | INFO | test mae: 2123.6431873299593
+2026-07-11 15:56:57,724 | INFO | training r2: 0.9823385461752664
+2026-07-11 15:56:57,724 | INFO | test r2: 0.9721358042811503
+2026-07-11 15:56:57,802 | INFO | model saved to C:\Users\kaush\Desktop\SummerBreak\Price Detection\Used_Phone_Price_Detection\Model\used_phone_prediction.joblib
+2026-07-11 15:56:57,805 | INFO | Model training completed
